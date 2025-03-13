@@ -1,9 +1,6 @@
 🔍 Real Time Object Detection using YOLOv8 and Streamlit
 This repository contains a simple implementation of real-time object detection using YOLOv8 and Streamlit. It leverages the webcam to detect common objects in the environment and display the results live in a web interface.
 
-🚀 Demo
-Live Demo: Add your hosted link here if available
-
 📦 Features
 ✅ Real-time object detection via webcam
 ✅ Fast and lightweight YOLOv8 (nano version) for better performance
